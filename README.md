@@ -1,6 +1,6 @@
 # web-wow-aog
 
-Repo con los cambios de la web para el emulador de wow de aog.
+Repo con los cambios de la web.
 
 Features a probar (armando branches) de esta lista: https://github.com/Frondor/FusionCMS-themes-and-modules/tree/master/modules
 
